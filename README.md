@@ -20,6 +20,6 @@ Nele é possível filtrar os dados por Produtos, Datas estipuladas e Marcas
 
 <img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/f18b8a5e-ebb6-4d9d-ba44-e64efab74b3f" />
 
-<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/16815ee0-d13a-498a-b7fa-2bcbbbfd1e5c" />
+<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/11a61833-0879-494d-a535-f17aa46b9455" />
 
 <img width="1322" height="740" alt="image" src="https://github.com/user-attachments/assets/caacf01e-fad1-4be4-b9aa-3120e31f9ab2" />
